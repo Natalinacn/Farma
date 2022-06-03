@@ -1,0 +1,16 @@
+{
+  "name": "alertMessage",
+  "unique_id": "RrVaz5NX",
+  "parent": "rRLTdGac",
+  "path": "alertMessage.tpl",
+  "completePath": "elements/Material-UI/alertMessage.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "alertMessage",
+  "values": {
+    "title": "Enviado!",
+    "severity": "success",
+    "variant": "filled"
+  }
+}

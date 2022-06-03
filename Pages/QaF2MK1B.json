@@ -1,0 +1,14 @@
+{
+  "name": "navLink",
+  "unique_id": "QaF2MK1B",
+  "parent": "0rD3k73L",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "navLink",
+  "values": {
+    "Destination": "/",
+    "destination": "/",
+    "linkText": "Home"
+  }
+}

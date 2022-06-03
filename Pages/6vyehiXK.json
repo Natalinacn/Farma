@@ -1,0 +1,15 @@
+{
+  "name": "themeSelection",
+  "unique_id": "6vyehiXK",
+  "parent": "qaKG0OcT",
+  "path": "themeSelection.tpl",
+  "completePath": "elements/Experimental/themeSelection.tpl",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "type": "element",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum",
+    "useAsset": "MoLcc30u"
+  }
+}

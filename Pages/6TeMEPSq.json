@@ -1,0 +1,16 @@
+{
+  "name": "Instagram",
+  "unique_id": "6TeMEPSq",
+  "parent": "AU9cH8Qq",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "QT8mlSn6",
+    "width": "30",
+    "height": "30"
+  }
+}

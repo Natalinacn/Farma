@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "unique_id": "oMQsaTPm",
+  "parent": "HfDBAR5U",
+  "path": "text.tpl",
+  "completePath": "elements/Basic/text.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Encontrá farmacias cercanas, farmacias de turno, 24 horas, con envío a domicilio y mucho más!!"
+  }
+}

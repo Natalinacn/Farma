@@ -1,0 +1,15 @@
+{
+  "name": "navbar",
+  "unique_id": "DmTc8OPw",
+  "parent": "coTKfn4N",
+  "path": "navbar.tpl",
+  "completePath": "elements\\Material-UI\\navbar.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "navbar",
+  "values": {
+    "ClassName": "theme.nav",
+    "Title": "navbar"
+  }
+}

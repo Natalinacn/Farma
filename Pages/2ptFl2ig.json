@@ -1,0 +1,15 @@
+{
+  "name": "button",
+  "unique_id": "2ptFl2ig",
+  "parent": "DmTc8OPw",
+  "path": "button.tpl",
+  "completePath": "elements\\Material-UI\\button.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Ofertas",
+    "className": "theme.button"
+  }
+}

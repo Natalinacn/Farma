@@ -1,0 +1,16 @@
+{
+  "name": "function",
+  "unique_id": "TZvia5gg",
+  "parent": "RLbfK7HX",
+  "path": "function.tpl",
+  "completePath": "elements/Programming/function.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "function",
+  "values": {
+    "functionName": "suscribe",
+    "functionParameters": "",
+    "functionBody": "let data= {...Suscriptoresdata}\nsetSuscriptoresData({ ...initialDataSuscriptores })"
+  }
+}

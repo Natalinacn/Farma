@@ -1,0 +1,15 @@
+{
+  "name": "Detalle",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "unique_id": "HfDBAR5U",
+  "parent": "xQZtfVnv",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_id": "eulBczlrI6q5hnoW",
+  "createdAt": 1646411555428,
+  "modifiedAt": 1654260252068,
+  "lastSaved": 1654260252068,
+  "settings": {
+    "name": "Suscripcion",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://suscripcion_.aptugo.com",
+      "folder": "Suscripcion",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://suscripcion_.aptugo.com",
+      "folder": "Suscripcion_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://Suscripcion.aptugo.com:3456",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Local",
+      "url": "https://suscripcion.aptugo.com",
+      "folder": "Suscripcion",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://Suscripcion.aptugo.com:3456",
+      "dbconnectstring": "mongodb://Suscripcion:bP01Z5R6himEAbAD@127.0.0.1:27017/?authSource=admin",
+      "variables": ""
+    },
+    "lastSaved": null,
+    "lastBuild": null
+  }
+}

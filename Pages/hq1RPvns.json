@@ -1,0 +1,16 @@
+{
+  "name": "button",
+  "unique_id": "hq1RPvns",
+  "parent": "5HyiXfGs",
+  "path": "button.tpl",
+  "completePath": "elements/Material-UI/button.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "button",
+  "values": {
+    "ButtonText": "Suscribite!",
+    "Variant": "contained",
+    "Action": "suscribe(); setopenSnackbar(true)"
+  }
+}

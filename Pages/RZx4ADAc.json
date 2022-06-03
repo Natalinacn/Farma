@@ -1,0 +1,14 @@
+{
+  "name": "Save to Database",
+  "unique_id": "RZx4ADAc",
+  "parent": "TZvia5gg",
+  "path": "saveToRedux.tpl",
+  "completePath": "elements/Programming/saveToRedux.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "saveToRedux",
+  "values": {
+    "data": "NZ24ffP5"
+  }
+}

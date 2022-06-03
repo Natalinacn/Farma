@@ -1,0 +1,16 @@
+{
+  "name": "Titulo1",
+  "originalName": "typography",
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "unique_id": "rOVlI3Mm",
+  "parent": "xQZtfVnv",
+  "path": "typography.tpl",
+  "completePath": "elements/Material-UI/typography.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "typography",
+  "values": {
+    "tag": "h4"
+  }
+}
