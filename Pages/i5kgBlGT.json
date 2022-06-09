@@ -1,0 +1,17 @@
+{
+  "name": "edison",
+  "unique_id": "i5kgBlGT",
+  "parent": "kkMiTNay",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "cxJN8b8i",
+    "className": "theme.imagen",
+    "width": "150",
+    "height": "90"
+  }
+}

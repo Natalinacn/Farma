@@ -1,0 +1,17 @@
+{
+  "name": "launion",
+  "unique_id": "UKxB8TwH",
+  "parent": "kkMiTNay",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "8Q0ucAaE",
+    "width": "150",
+    "height": "90",
+    "className": "theme.imagen"
+  }
+}

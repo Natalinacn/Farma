@@ -1,0 +1,17 @@
+{
+  "name": "vassallo",
+  "unique_id": "IHua705P",
+  "parent": "kkMiTNay",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "Gex92UUx",
+    "className": "theme.imagen",
+    "width": "150",
+    "height": "90"
+  }
+}
