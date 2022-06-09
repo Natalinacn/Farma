@@ -11,6 +11,7 @@
   "values": {
     "ButtonText": "Suscribite!",
     "Variant": "contained",
-    "Action": "suscribe(); setopenSnackbar(true)"
+    "Action": "suscribe(); setopenSnackbar(true)",
+    "className": ""
   }
 }

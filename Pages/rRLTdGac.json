@@ -4,7 +4,7 @@
   "parent": "coTKfn4N",
   "path": "snackbar.tpl",
   "completePath": "elements/Material-UI/snackbar.tpl",
-  "collapseStatus": "expand",
+  "collapseStatus": "collapse",
   "cascades": false,
   "type": "element",
   "value": "snackbar",

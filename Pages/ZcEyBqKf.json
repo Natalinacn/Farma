@@ -1,0 +1,14 @@
+{
+  "name": "Nosotros",
+  "unique_id": "ZcEyBqKf",
+  "parent": "R5Jk5Jmz",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.nosotros"
+  }
+}

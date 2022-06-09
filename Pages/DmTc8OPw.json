@@ -5,7 +5,7 @@
   "path": "navbar.tpl",
   "completePath": "elements\\Material-UI\\navbar.tpl",
   "collapseStatus": "expand",
-  "cascades": false,
+  "cascades": true,
   "type": "element",
   "value": "navbar",
   "values": {

@@ -1,0 +1,14 @@
+{
+  "name": "sanchez",
+  "unique_id": "onEPtocd",
+  "parent": "I6tyohKN",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "PPX2vHZT"
+  }
+}

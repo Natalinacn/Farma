@@ -1,0 +1,14 @@
+{
+  "name": "farmacias",
+  "unique_id": "I6tyohKN",
+  "parent": "GJMQQLkd",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.farmacias"
+  }
+}

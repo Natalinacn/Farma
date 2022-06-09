@@ -4,7 +4,7 @@
   "name": "() => aptugo.store.getState().application.tables.find(table => table.unique_id === \"NZ24ffP5\").name",
   "type": "page",
   "path": "() => '/' + aptugo.store.getState().application.tables.find(table => table.unique_id === \"NZ24ffP5\").name",
-  "parent": "7DThOfpW",
-  "collapseStatus": "collapse",
+  "parent": "eHW0NkFK",
+  "collapseStatus": "expand",
   "filename": "() => aptugo.store.getState().application.tables.find(table => table.unique_id === \"NZ24ffP5\").name + '.tsx'"
 }

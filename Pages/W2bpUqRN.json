@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "unique_id": "W2bpUqRN",
+  "parent": "9Lsxy6gu",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Encontrá farmacias de todo el país!"
+  }
+}

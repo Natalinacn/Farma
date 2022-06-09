@@ -1,0 +1,13 @@
+{
+  "name": "Text Content",
+  "unique_id": "vcgGtbbU",
+  "parent": "dzZk2339",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "Esta es una aplicación creada por alumnos de Aptugo en 2022 con un objetivo claro: ayudar a las personas para que siempre puedan encontrar una farmacia de turno.\n\nBuscamos renovar constantemente la aplicación y trabajamos en nuevas actualizaciones para brindar el mejor servicio."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "zentner",
+  "unique_id": "pPFuENCF",
+  "parent": "I6tyohKN",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "KBTMeCzz",
+    "width": "250",
+    "height": "150"
+  }
+}

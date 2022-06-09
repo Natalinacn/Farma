@@ -1,0 +1,14 @@
+{
+  "name": "Text Content",
+  "unique_id": "Hz1nFFF7",
+  "parent": "twaneyH0",
+  "path": "text.tpl",
+  "completePath": "elements\\Basic\\text.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "¿Quiénes somos?"
+  }
+}

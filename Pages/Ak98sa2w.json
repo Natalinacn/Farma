@@ -1,0 +1,11 @@
+{
+  "name": "After Page Render",
+  "unique_id": "Ak98sa2w",
+  "parent": "syuL9cC5",
+  "path": "apr.tpl",
+  "completePath": "elements/Aptugo Internal Use/apr.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "apr"
+}

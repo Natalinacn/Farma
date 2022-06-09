@@ -1,0 +1,14 @@
+{
+  "name": "selma",
+  "unique_id": "zhrc5KaG",
+  "parent": "I6tyohKN",
+  "path": "image.tpl",
+  "completePath": "elements/Material-UI/image.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "image",
+  "values": {
+    "useAsset": "UOpWxTEg"
+  }
+}
