@@ -1,16 +1,18 @@
 {
   "type": "table",
-  "unique_id": "NZ24ffP5",
-  "name": "Suscriptores",
-  "singleName": "Suscriptor",
+  "unique_id": "TuXTmMM8",
+  "name": "Localidades",
+  "singleName": "Localidad",
   "subtype": "Aptugo",
   "fields": [
     {
-      "column_name": "Email",
-      "data_type": "String",
+      "column_name": "Nombre",
+      "data_type": "Autocomplete",
       "key": "Auto Number",
-      "unique_id": "RvS0UDZq",
-      "length": "11"
+      "unique_id": "yeRdPnlZ",
+      "length": "11",
+      "relationshipType": "1:m",
+      "reference": "KpbcTUvm"
     }
   ],
   "definedRoutes": [
@@ -63,6 +65,6 @@
       "route_template": "delete"
     }
   ],
-  "x": 30,
-  "y": 30
+  "x": 259,
+  "y": 344
 }

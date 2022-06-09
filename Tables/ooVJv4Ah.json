@@ -1,16 +1,21 @@
 {
   "type": "table",
-  "unique_id": "NZ24ffP5",
-  "name": "Suscriptores",
-  "singleName": "Suscriptor",
+  "unique_id": "ooVJv4Ah",
+  "name": "Turnos",
+  "singleName": "Turno",
   "subtype": "Aptugo",
   "fields": [
     {
-      "column_name": "Email",
-      "data_type": "String",
+      "column_name": "Desde",
+      "data_type": "Date",
       "key": "Auto Number",
-      "unique_id": "RvS0UDZq",
+      "unique_id": "Aq5HCar3",
       "length": "11"
+    },
+    {
+      "data_type": "Date",
+      "column_name": "Hasta",
+      "unique_id": "x943htT0"
     }
   ],
   "definedRoutes": [
@@ -63,6 +68,6 @@
       "route_template": "delete"
     }
   ],
-  "x": 30,
-  "y": 30
+  "x": 726,
+  "y": 360
 }

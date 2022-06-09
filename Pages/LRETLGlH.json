@@ -1,0 +1,10 @@
+{
+  "asociated_table": "TuXTmMM8",
+  "name": "() => aptugo.store.getState().application.tables.find(table => table.unique_id === \"TuXTmMM8\").name",
+  "type": "page",
+  "path": "() => '/' + aptugo.store.getState().application.tables.find(table => table.unique_id === \"TuXTmMM8\").name",
+  "parent": "eHW0NkFK",
+  "collapseStatus": "collapse",
+  "filename": "() => aptugo.store.getState().application.tables.find(table => table.unique_id === \"TuXTmMM8\").name + '.tsx'",
+  "unique_id": "LRETLGlH"
+}

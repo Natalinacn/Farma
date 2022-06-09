@@ -1,15 +1,15 @@
 {
   "type": "table",
-  "unique_id": "NZ24ffP5",
-  "name": "Suscriptores",
-  "singleName": "Suscriptor",
+  "unique_id": "cUHQnABS",
+  "name": "Provincias",
+  "singleName": "Provincia",
   "subtype": "Aptugo",
   "fields": [
     {
-      "column_name": "Email",
+      "column_name": "Nombre",
       "data_type": "String",
       "key": "Auto Number",
-      "unique_id": "RvS0UDZq",
+      "unique_id": "KpbcTUvm",
       "length": "11"
     }
   ],
@@ -63,6 +63,6 @@
       "route_template": "delete"
     }
   ],
-  "x": 30,
-  "y": 30
+  "x": 19,
+  "y": 340
 }

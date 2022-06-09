@@ -1,16 +1,51 @@
 {
   "type": "table",
-  "unique_id": "NZ24ffP5",
-  "name": "Suscriptores",
-  "singleName": "Suscriptor",
+  "unique_id": "t6rTI3qT",
+  "name": "Farmacias",
+  "singleName": "Farmacia",
   "subtype": "Aptugo",
   "fields": [
     {
-      "column_name": "Email",
-      "data_type": "String",
+      "column_name": "ID",
+      "data_type": "Number",
       "key": "Auto Number",
-      "unique_id": "RvS0UDZq",
+      "unique_id": "Bl4lFI2G",
       "length": "11"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Nombre",
+      "unique_id": "cFiQ5X44"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Dirección",
+      "unique_id": "4VXg6Psi"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "Código Postal",
+      "unique_id": "vWieAr4n"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "Teléfono",
+      "unique_id": "bVtMDtt6"
+    },
+    {
+      "data_type": "Url",
+      "column_name": "Página Web",
+      "unique_id": "KSTI5Kqw"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Localidad",
+      "unique_id": "p8VZxbev"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Provincia",
+      "unique_id": "WWsZZdT6"
     }
   ],
   "definedRoutes": [
@@ -63,6 +98,6 @@
       "route_template": "delete"
     }
   ],
-  "x": 30,
-  "y": 30
+  "x": 487,
+  "y": 350
 }

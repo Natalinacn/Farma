@@ -1,0 +1,12 @@
+{
+  "name": "div",
+  "unique_id": "Gp8NEFGB",
+  "parent": "ANI2u2lI",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  }
+}
