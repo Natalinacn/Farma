@@ -9,6 +9,8 @@
   "type": "element",
   "value": "image",
   "values": {
-    "useAsset": "UOpWxTEg"
+    "useAsset": "UOpWxTEg",
+    "width": "150",
+    "height": "90"
   }
 }

@@ -9,6 +9,8 @@
   "type": "element",
   "value": "image",
   "values": {
-    "useAsset": "gz0hmLJZ"
+    "useAsset": "gz0hmLJZ",
+    "width": "150",
+    "height": "90"
   }
 }
