@@ -11,6 +11,7 @@
   "values": {
     "useAsset": "gz0hmLJZ",
     "width": "150",
-    "height": "90"
+    "height": "90",
+    "className": "theme.imagen"
   }
 }
