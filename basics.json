@@ -1,8 +1,13 @@
 {
   "_id": "eulBczlrI6q5hnoW",
   "createdAt": 1646411555428,
+<<<<<<< HEAD
   "modifiedAt": 1655407727900,
   "lastSaved": 1655407727899,
+=======
+  "modifiedAt": 1654801594357,
+  "lastSaved": 1654801594357,
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
   "settings": {
     "name": "Suscripcion",
     "description": "No description given",

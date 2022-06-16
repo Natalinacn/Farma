@@ -1,10 +1,18 @@
 {
+<<<<<<< HEAD
   "unique_id": "SsFrIW7Z",
+=======
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
   "asociated_table": "t6rTI3qT",
   "name": "() => aptugo.store.getState().application.tables.find(table => table.unique_id === \"t6rTI3qT\").name",
   "type": "page",
   "path": "() => '/' + aptugo.store.getState().application.tables.find(table => table.unique_id === \"t6rTI3qT\").name",
   "parent": "eHW0NkFK",
   "collapseStatus": "collapse",
+<<<<<<< HEAD
   "filename": "() => aptugo.store.getState().application.tables.find(table => table.unique_id === \"t6rTI3qT\").name + '.tsx'"
+=======
+  "filename": "() => aptugo.store.getState().application.tables.find(table => table.unique_id === \"t6rTI3qT\").name + '.tsx'",
+  "unique_id": "SsFrIW7Z"
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
 }

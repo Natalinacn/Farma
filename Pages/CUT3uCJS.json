@@ -1,10 +1,15 @@
 {
   "name": "table",
+<<<<<<< HEAD
   "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.table).name\n    const calc = tblname + ' Table'\n    return calc\n  } catch(e) {\n    return 'Table'\n  }\n}",
   "unique_id": "CUT3uCJS",
   "parent": "3mxWv0Gl",
   "path": "table.tpl",
   "completePath": "elements\\Material-UI\\table.tpl",
+=======
+  "unique_id": "CUT3uCJS",
+  "parent": "3mxWv0Gl",
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
   "collapseStatus": "expand",
   "cascades": false,
   "type": "element",
@@ -13,8 +18,12 @@
     "table": "t6rTI3qT",
     "editProcedure": "Internal",
     "title": "Table Title",
+<<<<<<< HEAD
     "headerColor": "rose",
     "usePagination": true,
     "elementsLimit": "10"
+=======
+    "headerColor": "rose"
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
   }
 }

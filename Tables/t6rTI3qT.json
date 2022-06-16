@@ -6,6 +6,16 @@
   "subtype": "Aptugo",
   "fields": [
     {
+<<<<<<< HEAD
+=======
+      "column_name": "ID",
+      "data_type": "Number",
+      "key": "Auto Number",
+      "unique_id": "Bl4lFI2G",
+      "length": "11"
+    },
+    {
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
       "data_type": "String",
       "column_name": "Nombre",
       "unique_id": "cFiQ5X44"
@@ -17,8 +27,33 @@
     },
     {
       "data_type": "Number",
+<<<<<<< HEAD
       "column_name": "Teléfono",
       "unique_id": "bVtMDtt6"
+=======
+      "column_name": "Código Postal",
+      "unique_id": "vWieAr4n"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "Teléfono",
+      "unique_id": "bVtMDtt6"
+    },
+    {
+      "data_type": "Url",
+      "column_name": "Página Web",
+      "unique_id": "KSTI5Kqw"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Localidad",
+      "unique_id": "p8VZxbev"
+    },
+    {
+      "data_type": "String",
+      "column_name": "Provincia",
+      "unique_id": "WWsZZdT6"
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
     }
   ],
   "definedRoutes": [
@@ -71,6 +106,11 @@
       "route_template": "delete"
     }
   ],
+<<<<<<< HEAD
   "x": 548,
   "y": 459
+=======
+  "x": 487,
+  "y": 350
+>>>>>>> 9b20cc17367f018d6b0449e9d3c24c10beaf8de4
 }
