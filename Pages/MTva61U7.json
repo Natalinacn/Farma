@@ -1,0 +1,15 @@
+{
+  "name": "table",
+  "unique_id": "MTva61U7",
+  "parent": "9FrnLDKi",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "table",
+  "values": {
+    "table": "QCymJdcU",
+    "editProcedure": "Internal",
+    "title": "Table Title",
+    "headerColor": "rose"
+  }
+}

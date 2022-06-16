@@ -1,0 +1,12 @@
+{
+  "name": "Head",
+  "unique_id": "PnARJ25W",
+  "parent": "gNPQXTZ7",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.tableHeading"
+  }
+}

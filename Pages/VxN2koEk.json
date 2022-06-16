@@ -1,0 +1,12 @@
+{
+  "name": "text",
+  "unique_id": "VxN2koEk",
+  "parent": "ZqRUDC5e",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "text",
+  "values": {
+    "Content": "() => { return aptugo.store.getState().application.tables.find(table => table.unique_id === \"lTF57rxm\").singleName + \" list\" }"
+  }
+}

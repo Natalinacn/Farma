@@ -1,0 +1,15 @@
+{
+  "name": "Body",
+  "unique_id": "bfoyBrWu",
+  "parent": "t7ODLQRT",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.pages"
+    ],
+    "primaryColor": "green"
+  }
+}

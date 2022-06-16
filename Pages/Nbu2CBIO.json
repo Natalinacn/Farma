@@ -1,0 +1,12 @@
+{
+  "name": "Table Area",
+  "unique_id": "Nbu2CBIO",
+  "parent": "59CdLMi0",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "classes.tableResponsive"
+  }
+}
